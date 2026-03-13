@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Stock Trading Simulator
+# Stock Trading App
 
 ## Contents
 * [About](#about)
