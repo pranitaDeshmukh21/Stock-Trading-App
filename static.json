@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "root": "/client/build/",
   "clean_urls": false,
@@ -5,3 +6,12 @@
     "/**": "index.html"
   }
 }
+=======
+{
+  "root": "/client/build/",
+  "clean_urls": false,
+  "routes": {
+    "/**": "index.html"
+  }
+}
+>>>>>>> 3a15c76c1d2546c72048571ba8d81e434015e308
