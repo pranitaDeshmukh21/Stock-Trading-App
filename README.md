@@ -1,4 +1,4 @@
-# Stock Trading Simulator
+# Stock Trading App
 
 ## Contents
 * [About](#about)
@@ -56,3 +56,4 @@ coming soon...
 
 ## Deployment
 coming soon...
+
